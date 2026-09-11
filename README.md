@@ -1,4 +1,4 @@
-# Desafio Prático: Implementação de Práticas DevOps — A Tech 🚀
+# Desafio Prático: Implementação de Práticas DevOps — A Tech 
 
 Oiê! este repositório foi criado para documentar a resolução do desafio prático proposto pela Rocketseat. O objetivo é aplicar os conceitos de **CALMS** e das **Três Maneiras** do DevOps para transformar o fluxo operacional de uma empresa fictícia, eliminando gargalos entre as equipes de desenvolvimento e operações.
 
